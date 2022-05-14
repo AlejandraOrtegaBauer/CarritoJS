@@ -1,0 +1,55 @@
+[{
+    "nombre": "Clase30",
+    "img": "imagenes/voz_cabeza.jpg",
+    "costo": 500,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Clase45",
+    "img": "imagenes/afinacion.jpg",
+    "costo": 700,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Clase60",
+    "img": "imagenes/voz_pecho.jpg",
+    "costo": 900,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Belting",
+    "img": "imagenes/belting.jpg",
+    "costo": 3000,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Mixta",
+    "img": "imagenes/voz_mixta.jpg",
+    "costo": 3000,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Afinacion",
+    "img": "imagenes/respiracion.jpg",
+    "costo": 3000,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Composicion",
+    "img": "imagenes/compo.jpg",
+    "costo": 900,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "RedesSociales",
+    "img": "imagenes/plan_rrss.jpg",
+    "costo": 4000,
+    "porcentajeGanancia": 0.5
+  },
+  {
+    "nombre": "Vocalizaciones",
+    "img": "imagenes/voz_cabeza.jpg",
+    "costo": 3000,
+    "porcentajeGanancia": 0.5
+  }
+]
